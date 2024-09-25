@@ -1,0 +1,36 @@
+#container{
+    
+    background-color: #EDDFE0;
+    width: 1280px;
+    height: 920px;
+}
+
+#box{
+    
+    background-color: #C4D7FF;
+    width: 350px;
+    height: 380px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: 460px;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-left: 130px;
+    width: 85px;
+    height: 30px;
+}
+img{
+    width:350px;
+    height: 150px;
+}
+
+h1{
+    font-size: 150%;
+    text-align: center;
+}
+p{
+    padding-left: 15px;
+    padding-right: 10px;
+}
