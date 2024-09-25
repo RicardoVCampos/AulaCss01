@@ -1,0 +1,32 @@
+#container{
+    background-color: #A04747;
+    width: 1280px;
+    height: 210px;
+    margin-left: 50px;
+}
+
+.titulo{
+    font-size: 32px;
+    color: #343131;
+    font-weight: lighter;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    padding-left: 30px;
+    }
+
+.paragrafo{
+    color: #343131;
+    font-size: 16px;
+    line-height: 30px;
+    /* letter-spacing: 5px; */
+    word-spacing: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
